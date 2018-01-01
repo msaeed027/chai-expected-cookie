@@ -1,0 +1,27 @@
+{
+    "name": "chai-expected-cookie",
+    "version": "1.0.2",
+    "description": "Chai plugin for testing HTTP response set-cookie header and it's also support supertest.",
+    "author": "Mohamed Saeed",
+    "private": false,
+    "keywords": [
+        "expected-cookie",
+        "chai-expected-cookie",
+        "expect",
+        "cookie",
+        "chai",
+        "assertions",
+        "expressjs",
+        "express"
+    ],
+    "main": "chai-expected-cookie",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/msaeed027/chai-expected-cookie.git"
+    },
+    "bugs": {
+        "url": "https://github.com/msaeed027/chai-expected-cookie/issues"
+    },
+    "homepage": "https://github.com/msaeed027/chai-expected-cookie",
+    "license": "MIT"
+}
